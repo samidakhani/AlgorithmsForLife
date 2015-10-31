@@ -1,4 +1,4 @@
-package tests.liveramp;
+package tests;
 
 import java.util.HashSet;
 

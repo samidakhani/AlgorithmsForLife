@@ -1,4 +1,4 @@
-package tests.liveramp;
+package tests;
 
 public class EquiibriumIndex_Of_An_Array {
 
